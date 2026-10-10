@@ -11053,7 +11053,7 @@ name = "yaak"
 version = "0.1.0"
 dependencies = [
  "async-trait",
- "base64 0.22.1",
+ "base64 0.23.1",
  "chrono",
  "log 0.4.34",
  "md5 0.8.0",
@@ -11087,7 +11087,7 @@ dependencies = [
 name = "yaak-app-client"
 version = "0.0.0"
 dependencies = [
- "base64 0.22.1",
+ "base64 0.23.1",
  "charset",
  "chrono",
  "cookie",
@@ -11174,7 +11174,7 @@ version = "0.1.0"
 dependencies = [
  "arboard",
  "assert_cmd",
- "base64 0.22.1",
+ "base64 0.23.1",
  "clap",
  "console 0.15.11",
  "dirs",
@@ -11247,7 +11247,7 @@ name = "yaak-crypto"
 version = "0.1.0"
 dependencies = [
  "base32",
- "base64 0.22.1",
+ "base64 0.23.1",
  "chacha20poly1305",
  "keyring",
  "log 0.4.34",
@@ -11455,7 +11455,7 @@ dependencies = [
 name = "yaak-plugins"
 version = "0.1.0"
 dependencies = [
- "base64 0.22.1",
+ "base64 0.23.1",
  "chrono",
  "dunce",
  "futures-util",
@@ -11595,7 +11595,7 @@ dependencies = [
 name = "yaak-templates"
 version = "0.1.0"
 dependencies = [
- "base64 0.22.1",
+ "base64 0.23.1",
  "log 0.4.34",
  "serde",
  "serde-wasm-bindgen",
@@ -11649,7 +11649,7 @@ version = "0.1.0"
 dependencies = [
  "async-trait",
  "axum",
- "base64 0.22.1",
+ "base64 0.23.1",
  "bytes",
  "clap",
  "env_logger",
